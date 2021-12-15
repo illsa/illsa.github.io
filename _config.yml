@@ -6,12 +6,12 @@ description: International Language and Linguistics Students' Association
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 
-city: 
+street_address: Kiki Street
+city: Bouba Town
 state: 
 zip_code: 
 country: 
-phone: 
+phone: 00-888-SYNSEM
 
 # Social settings
 500px_url:
