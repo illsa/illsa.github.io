@@ -1,0 +1,14 @@
+{% comment %}
+ id: stylesheets.head
+ type: element
+ version: 11.11.11
+{% endcomment %}
+
+{% assign @icons = site.data.assets.icons %}
+
+{% assign basePath = @icons.basePath %}
+{% for size in @icons.sizes %}
+ <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+ <link rel="apple-touch-icon" href="{{ size }}.png" />
+ <link rel="apple-touch-icon" sizes="{{ size }}" href="{{ size }}.png" />
+{% endfor %}

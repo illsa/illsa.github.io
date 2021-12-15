@@ -1,0 +1,40 @@
+{% comment %}
+ id: sidebar
+ type: partial
+ version: 11.11.11 
+{% endcomment %}
+
+{% assign @sidebars = site.data.sidebars %}
+{% assign menu = "sidebar/menu.html" %}
+{% assign search = "sidebar/search.html" %}
+{% assign header = "sidebar/header.html" %}
+{% assign mini_posts = "sidebar/mini-posts.html" %}
+{% assign actions = "sidebar/actions.html" %}
+{% assign footer = "sidebar/footer.html" %}
+
+<div id="sidebar">
+  <div class="inner">
+    <section>
+     
+     {% include {{ search }} %}
+     {% include {{ menu }} %}
+    
+     {% include {{ header }} %}
+     {% include {{ mini_posts }} %}
+    
+     {% include {{ actions }} %}
+    </section>
+
+    <section>
+       {% include {{ header }} %}
+      <p>
+        Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit
+        lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam
+        facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.
+      </p>
+   
+    </section>
+
+   {% include {{ footer }} %}
+  </div>
+</div>

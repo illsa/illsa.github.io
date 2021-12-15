@@ -1,0 +1,23 @@
+---
+layout: root
+---
+
+{% comment %}
+ id: root
+ type: layout
+ version: 11.11.11
+{% endcomment %}
+
+{% assign sidebar = "sidebar/_index.html" %}
+
+<div id="main">
+
+  <div class="inner">
+
+  {{ content }}
+
+  </div>
+
+</div>
+
+{% include {{ sidebar }} %}

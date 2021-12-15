@@ -1,0 +1,48 @@
+{% comment %}
+ id: head
+ type: partial
+ version: 11.11.11
+{% endcomment %}
+
+{% assign @banners = site.data.banners %}
+
+{% assign SOURCE = page.banner.data.source %}
+
+{% if SOURCE != null %}
+ {% assign PARAMS = @banners[SOURCE] %}
+ {% else %}
+ {% assign PARAMS = page.banner %}
+{% endif %}
+
+<section id="banner">
+    <div class="content">
+
+     {% assign header = PARAMS.header %}
+      <header>
+        <h1>{{ header.title }}</h1>
+
+        <p>{{ header.description }}</p>
+      </header>
+      
+      <p>
+        Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
+        aliquam facilisis ante interdum congue. Integer mollis, nisl
+        amet convallis, porttitor magna ullamcorper, amet egestas
+        mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id
+        euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor
+        sit nullam.
+      </p>
+      <ul class="actions">
+        {% assign actions = PARAMS.actions %}
+        {% for action in actions %}
+        <li>
+          <a href="{{ action.href }}" class="button big">{{ action.name }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+
+    </div>
+    <span class="image object">
+      <img src="images/pic10.jpg" alt="" />
+    </span>
+  </section>

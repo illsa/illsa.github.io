@@ -1,0 +1,7 @@
+- id: jekyll-datapage-generator 
+  repo: https://github.com/avillafiorita/jekyll-datapage_gen
+
+- id: jekyll-redirect-from
+  repo: https://github.com/jekyll/jekyll-redirect-from
+
+- repo: https://github.com/gildesmarais/jekyll-loading-lazy
