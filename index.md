@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: page
+permalink: /index.html
 ---
 
 {% assign header = "header/_index.html" %}
