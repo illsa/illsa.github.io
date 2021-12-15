@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 <!-- ⚠️ This README has been generated from the file(s) "SCHEMA.md" ⚠️--><h1>jekyll-editorial</h1>
 <h2>TL;DR</h2>
 
