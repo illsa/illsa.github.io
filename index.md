@@ -94,7 +94,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/victor.jpeg" alt="" /></a>
 			<h3>PR Officer</h3>
 			<p>Victor Zimmermann from Germany.</p>
 			<ul class="actions">
