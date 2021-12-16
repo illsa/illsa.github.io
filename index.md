@@ -42,53 +42,61 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Ipsum sed dolor</h2>
+		<h2>About the Board</h2>
 	</header>
 	<div class="posts">
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3>Interdum aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>President</h3>
+			<p>Awad Daniel from France.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Nulla amet dolore</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>Vice President</h3>
+			<p>ARiley Crouch from the UK.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-			<h3>Tempus ullamcorper</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>Secretary</h3>
+			<p>Hafren Vaughan from the UK.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-			<h3>Sed etiam facilis</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>Treasurer</h3>
+			<p>Pauline Sander from Germany.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
-			<h3>Feugiat lorem aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>Legal Officer</h3>
+			<p>Teva Pietruszka from France.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
-			<h3>Amet varius aliquam</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<a href="#" class="image"><img src="assets/images/aaricia_landscape.jpg" alt="" /></a>
+			<h3>Network Development Officer</h3>
+			<p>Aaricia Herygers from Belgium.</p>
+			<ul class="actions">
+				<li><a href="#" class="button">More</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<h3>PR Officer</h3>
+			<p>Victor Zimmermann from Germany.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
