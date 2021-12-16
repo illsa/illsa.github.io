@@ -90,7 +90,7 @@ layout: default
 			<h3>Network Development Officer</h3>
 			<p>Aaricia Herygers from Belgium.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ 'ndo21.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
