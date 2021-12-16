@@ -98,7 +98,7 @@ layout: default
 			<h3>PR Officer</h3>
 			<p>Victor Zimmermann from Germany.</p>
 			<ul class="actions">
-				<li><a href="{{ 'board21/pr21.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ 'pr21.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 	</div>
