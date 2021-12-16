@@ -50,7 +50,7 @@ layout: default
 			<h3>President</h3>
 			<p>Awad Daniel from France.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ '21pres.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -58,7 +58,7 @@ layout: default
 			<h3>Vice President</h3>
 			<p>Riley Crouch from the UK.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ '21vp.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -66,7 +66,7 @@ layout: default
 			<h3>Secretary</h3>
 			<p>Hafren Vaughan from the UK.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ '21sec.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -74,7 +74,7 @@ layout: default
 			<h3>Treasurer</h3>
 			<p>Pauline Sander from Germany.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ '21treas.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -82,7 +82,7 @@ layout: default
 			<h3>Legal Officer</h3>
 			<p>Teva Pietruszka from France.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				<li><a href="{{ '21lo.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -90,7 +90,7 @@ layout: default
 			<h3>Network Development Officer</h3>
 			<p>Aaricia Herygers from Belgium.</p>
 			<ul class="actions">
-				<li><a href="{{ 'ndo21.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ '21ndo.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
@@ -98,7 +98,7 @@ layout: default
 			<h3>PR Officer</h3>
 			<p>Victor Zimmermann from Germany.</p>
 			<ul class="actions">
-				<li><a href="{{ 'pr21.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ '21pr.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 	</div>
