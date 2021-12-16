@@ -56,7 +56,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Vice President</h3>
-			<p>ARiley Crouch from the UK.</p>
+			<p>Riley Crouch from the UK.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
