@@ -5,16 +5,13 @@ title: President
 
 
 <h2>Hiya, I'm Awad!</h2>
-<p><span class="image right"><img src="assets/images/pic01.jpg" alt="" /></span>--placeholder text-- </p>
+<p><span class="image right"><img src="assets/images/awad.jpeg" alt="" /></span> I studied a bilingual journalism master's in French and English at the Université Sorbonne Nouvelle in Paris. I used to be the VP in charge of press relations and students' rights at FNAEL.</p>
 	
-<p>--some more placeholder text--</p>
 
 <p>Let's connect!</p>
 <ul class="icons">
-  				<li><a href="https://www.linkedin.com/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-					<li><a href="https://twitter.com/" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="https://instagram.com/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="https://github.com/" class="icon fa-github"><span class="label">GitHub</span></a></li>
+  				<li><a href="http://linkedin.com/in/awad-daniel-212374199" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+					<li><a href="http://twitter.com/Awad_ILLSA" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 				</ul>
 <hr class="major" />
 
