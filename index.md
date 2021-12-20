@@ -46,7 +46,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/awad.jpeg" alt="" /></a>
+			<a href="{{ '21pres.html' | absolute_url }}" class="image"><img src="assets/images/awad.jpeg" alt="" /></a>
 			<h3>President</h3>
 			<p>Awad Daniel from France.</p>
 			<ul class="actions">
@@ -54,7 +54,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="{{ '21vp.html' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Vice President</h3>
 			<p>Riley Crouch from the UK.</p>
 			<ul class="actions">
@@ -62,7 +62,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="{{ '21sec.html' | absolute_url }}" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
 			<h3>Secretary</h3>
 			<p>Hafren Vaughan from the UK.</p>
 			<ul class="actions">
@@ -70,7 +70,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<a href="{{ '21treas.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
 			<h3>Treasurer</h3>
 			<p>Pauline Sander from Germany.</p>
 			<ul class="actions">
@@ -78,7 +78,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<a href="{{ '21lo.html' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
 			<h3>Legal Officer</h3>
 			<p>Teva Pietruszka from France.</p>
 			<ul class="actions">
@@ -86,7 +86,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/aaricia_landscape.jpg" alt="" /></a>
+			<a href="{{ '21ndo.html' | absolute_url }}" class="image"><img src="assets/images/aaricia_landscape.jpg" alt="" /></a>
 			<h3>Network Development Officer</h3>
 			<p>Aaricia Herygers from Belgium.</p>
 			<ul class="actions">
@@ -94,7 +94,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/victor.jpg" alt="" /></a>
+			<a href="{{ '21pr.html' | absolute_url }}" class="image"><img src="assets/images/victor.jpg" alt="" /></a>
 			<h3>PR Officer</h3>
 			<p>Victor Zimmermann from Germany.</p>
 			<ul class="actions">
