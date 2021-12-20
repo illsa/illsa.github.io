@@ -46,7 +46,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/awad.jpeg" alt="" /></a>
 			<h3>President</h3>
 			<p>Awad Daniel from France.</p>
 			<ul class="actions">
