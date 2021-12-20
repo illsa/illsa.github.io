@@ -29,7 +29,7 @@ title: Member Events
 				<tfoot>
 					<tr>
 						<td colspan="2"></td>
-						<td>100.00</td>
+						<td></td>
 					</tr>
 				</tfoot>
 			</table>
