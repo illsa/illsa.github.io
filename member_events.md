@@ -4,12 +4,10 @@ title: Member Events
 ---
 
 
-
-
-		<div class="table-wrapper">
-			<table>
-				<thead>
-					<tr>
+<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
 						<th>Member</th>
 						<th>Event</th>
 						<th>Date</th>
