@@ -5,7 +5,7 @@ title: President
 
 
 <h2>Hiya, I'm Awad!</h2>
-<p><span class="image right"><img src="assets/images/awad.jpeg" alt="" /></span> I studied a bilingual journalism master's in French and English at the Université Sorbonne Nouvelle in Paris. I used to be the VP in charge of press relations and students' rights at FNAEL.</p>
+<p><span class="image right"><img src="assets/images/awad.jpeg" alt="" /></span> I studied a bilingual journalism master's in French and English at the Université Sorbonne Nouvelle in Paris. I used to be the VP in charge of press relations and students' rights at <a href"https://www.fnael.org/">FNAEL</a>.</p>
 	
 
 <p>Let's connect!</p>
