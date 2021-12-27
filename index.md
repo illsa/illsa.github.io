@@ -54,36 +54,36 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="{{ '21vp.html' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<!--<a href="{{ '21vp.html' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>-->
 			<h3>Vice President</h3>
 			<p>Riley Crouch from the UK.</p>
-			<ul class="actions">
+			<!--<ul class="actions">
 				<li><a href="{{ '21vp.html' | absolute_url }}" class="button">More</a></li>
-			</ul>
+			</ul>-->
 		</article>
 		<article>
-			<a href="{{ '21sec.html' | absolute_url }}" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<!--<a href="{{ '21sec.html' | absolute_url }}" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>-->
 			<h3>Secretary</h3>
 			<p>Hafren Vaughan from the UK.</p>
-			<ul class="actions">
+			<!--<ul class="actions">
 				<li><a href="{{ '21sec.html' | absolute_url }}" class="button">More</a></li>
-			</ul>
+			</ul>-->
 		</article>
 		<article>
-			<a href="{{ '21treas.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<!--<a href="{{ '21treas.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>-->
 			<h3>Treasurer</h3>
 			<p>Pauline Sander from Germany.</p>
-			<ul class="actions">
+			<!--<ul class="actions">
 				<li><a href="{{ '21treas.html' | absolute_url }}" class="button">More</a></li>
-			</ul>
+			</ul>-->
 		</article>
 		<article>
-			<a href="{{ '21board/21lo.html' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<!--<a href="{{ '21board/21lo.html' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>-->
 			<h3>Legal Officer</h3>
 			<p>Teva Pietruszka from France.</p>
-			<ul class="actions">
+			<!--<ul class="actions">
 				<li><a href="{{ '21lo.html' | absolute_url }}" class="button">More</a></li>
-			</ul>
+			</ul>-->
 		</article>
 		<article>
 			<a href="{{ '21ndo.html' | absolute_url }}" class="image"><img src="assets/images/aaricia_landscape.jpg" alt="" /></a>
