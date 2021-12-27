@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- Section -->
-<section>
+<!-- <section>
 	<header class="major">
 		<h2>Our Goals</h2>
 	</header>
@@ -37,7 +37,7 @@ layout: default
 			</div>
 		</article>
 	</div>
-</section>
+</section> -->
 
 <!-- Section -->
 <section>
@@ -78,7 +78,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="{{ '21lo.html' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
+			<a href="{{ '21board/21lo.html' | absolute_url }}" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
 			<h3>Legal Officer</h3>
 			<p>Teva Pietruszka from France.</p>
 			<ul class="actions">
