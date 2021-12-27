@@ -3,7 +3,7 @@ layout: page
 title: Member Events
 ---
 
-
+<section>
 <div class="table-wrapper">
 	<table>
 		<thead>
@@ -31,3 +31,12 @@ title: Member Events
 				</tfoot>
 			</table>
 		</div>
+</section>		
+<section>		
+
+<h3>Get updates for all ILLSA member events by joining!</h3>
+<ul class="actions">
+        <li><a href="https://forms.gle/ijckraZRmRVYZwKh7" class="button big">Become a Member</a></li>
+      </ul>
+	
+</section>
