@@ -69,7 +69,16 @@ layout: default
 				<li><a href="{{ '21board/21ndo.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
+	
 		<article>
+			<!--<a href="{{ '21board/21treas.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>-->
+			<h3>Treasurer</h3>
+			<p>Pauline Sander from Germany.</p>
+			<ul class="actions">
+				<li><a href="{{ '21board/21treas.html' | absolute_url }}" class="button">More</a></li>
+			</ul>
+		</article>
+			<article>
 			<!--<a href="{{ '21board/21vp.html' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>-->
 			<h3>Vice President</h3>
 			<p>Riley Crouch from the UK.</p>
@@ -83,14 +92,6 @@ layout: default
 			<p>Hafren Vaughan from the UK.</p>
 			<!--<ul class="actions">
 				<li><a href="{{ '21board/21sec.html' | absolute_url }}" class="button">More</a></li>
-			</ul>-->
-		</article>
-		<article>
-			<!--<a href="{{ '21board/21treas.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>-->
-			<h3>Treasurer</h3>
-			<p>Pauline Sander from Germany.</p>
-			<!--<ul class="actions">
-				<li><a href="{{ '21board/21treas.html' | absolute_url }}" class="button">More</a></li>
 			</ul>-->
 		</article>
 		<article>
