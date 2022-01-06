@@ -71,11 +71,11 @@ layout: default
 		</article>
 	
 		<article>
-			<!--<a href="{{ '21board/21treas.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>-->
+			<!--<a href="{{ '21board/21treasurer.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>-->
 			<h3>Treasurer</h3>
 			<p>Pauline Sander from Germany.</p>
 			<ul class="actions">
-				<li><a href="{{ '21board/21treas.html' | absolute_url }}" class="button">More</a></li>
+				<li><a href="{{ '21board/21treasurer.html' | absolute_url }}" class="button">More</a></li>
 			</ul>
 		</article>
 			<article>
