@@ -14,6 +14,10 @@ title: Member Events
 				</thead>
 				<tbody>
 					<tr>
+						<td><a href="https://staps.stuts.eu/19-staps-muenchen/">19. STaPs</a></td>
+						<td>25-26 March 2022</td>
+					</tr>
+					<tr>
 						<td><a href="https://www.ulab.org.uk/conferences/conferences/45">ULAB Conference</a></td>
 						<td>9-11 April 2022</td>
 					</tr>
